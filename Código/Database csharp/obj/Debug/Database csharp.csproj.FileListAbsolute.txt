@@ -1,0 +1,13 @@
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\obj\Debug\Database csharp.csproj.AssemblyReference.cache
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\obj\Debug\Database_csharp.Form1.resources
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\obj\Debug\Database_csharp.Properties.Resources.resources
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\obj\Debug\Database csharp.csproj.GenerateResource.cache
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\obj\Debug\Database csharp.csproj.CoreCompileInputs.cache
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\bin\Debug\Database csharp.exe.config
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\bin\Debug\Database csharp.exe
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\bin\Debug\Database csharp.pdb
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\bin\Debug\Dapper.dll
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\bin\Debug\Dapper.xml
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\obj\Debug\Database csharp.csproj.CopyComplete
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\obj\Debug\Database csharp.exe
+C:\Users\gomes\OneDrive\Ambiente de Trabalho\UNI\AAD\Databse c#\Database csharp\Database csharp\obj\Debug\Database csharp.pdb
